@@ -1,0 +1,46 @@
+HENGYUN Weekly Grant Intelligence Brief
+
+1. Internal review warning
+This is internal grant intelligence only. Human review is required before any eligibility or funding conclusion.
+
+2. Weekly executive summary
+The monitor collected a small set of official-source updates for review. No eligibility or funding conclusions are made without human verification.
+
+3. Open or urgent opportunities
+- No open or urgent opportunities found.
+
+4. High relevance to HENGYUN
+- No confirmed high-relevance opportunities found.
+
+5. RTSU / prototype funding candidates
+- No confirmed RTSU prototype candidates found.
+
+6. STEPS demo funding candidates
+- No confirmed STEPS demo candidates found.
+
+7. Japan / international opportunities
+- None confirmed in this pass.
+
+8. Closed but useful reference programs
+- None confirmed in this pass.
+
+9. Items requiring human verification
+- No confirmed opportunities requiring human verification.
+
+10. Source watch / monitored pages
+- Taiwan SBIR official site (Taiwan SBIR official site) - monitored source page, not a confirmed opportunity
+- Taipei City Department of Economic Development (Taipei City Department of Economic Development) - monitored source page, not a confirmed opportunity
+- Attention Required! | Cloudflare (Taiwan Energy Administration) - monitored source page, not a confirmed opportunity
+- Attention Required! | Cloudflare (Taiwan Ministry of Economic Affairs / SME and Startup Administration) - monitored source page, not a confirmed opportunity
+- NEDO 国立研究開発法人 新エネルギー・産業技術総合開発機構 (NEDO official announcements) - monitored source page, not a confirmed opportunity
+- Home | gov.sg (Singapore government grant and testbed pages) - monitored source page, not a confirmed opportunity
+
+11. Source health / fetch issues
+- Taiwan SBIR official site -> status error (HTTPSConnectionPool(host='sbir.org.tw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)'))))
+- Taipei City Department of Economic Development -> status error (HTTPSConnectionPool(host='www.taipei.gov.tw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1016)'))))
+- Taiwan Energy Administration -> status 403 (needs review)
+- Taiwan Ministry of Economic Affairs / SME and Startup Administration -> status 403 (needs review)
+
+11. Recommended actions for the next 30 days
+- Review the captured sources and confirm whether official program pages remain active.
+- Prepare a short list of candidate programs for internal review.
