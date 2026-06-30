@@ -1,0 +1,115 @@
+monitor:
+  monitor_name: HENGYUN Grant Intelligence Monitor
+  organization: HENGYUN Technology
+  focus:
+    - Taiwan startup grants
+    - Taipei City startup and R&D grants
+    - SBIR
+    - SIIR
+    - SITI
+    - Energy Administration demonstration or R&D programs
+    - net-zero technology grants
+    - smart city testbed programs
+    - Japan GX / NEDO / local decarbonization grants
+    - Singapore urban climate / testbed programs
+
+sources:
+  - name: Taiwan SBIR official site
+    url: https://www.sbir.org.tw/
+    source_category: Official program source
+    grant_category: Startup grant
+    priority: 1
+  - name: Taipei City Department of Economic Development
+    url: https://www.taipei.gov.tw/
+    source_category: Public agency source
+    grant_category: R&D grant
+    priority: 2
+  - name: Taiwan Energy Administration
+    url: https://www.moea.gov.tw/
+    source_category: Official government source
+    grant_category: Energy / net-zero grant
+    priority: 3
+  - name: Taiwan Ministry of Economic Affairs / SME and Startup Administration
+    url: https://www.moea.gov.tw/
+    source_category: Official government source
+    grant_category: Startup grant
+    priority: 4
+  - name: NEDO official announcements
+    url: https://www.nedo.go.jp/
+    source_category: Official government source
+    grant_category: International / Japan
+    priority: 5
+  - name: Singapore government grant and testbed pages
+    url: https://www.gov.sg/
+    source_category: Public agency source
+    grant_category: International / Singapore
+    priority: 6
+
+opportunity_signals:
+  - open call
+  - call for proposals
+  - application
+  - apply
+  - grant
+  - subsidy
+  - funding
+  - demonstration
+  - pilot
+  - testbed
+  - R&D program
+  - innovation program
+  - startup grant
+  - SBIR
+  - 補助
+  - 申請
+  - 徵件
+  - 公告
+  - 計畫
+  - 受理
+  - 截止
+  - 申請須知
+  - 募集
+  - 公募
+  - 助成
+  - 補助金
+
+program_context_keywords:
+  - grant
+  - subsidy
+  - funding
+  - program
+  - application
+  - call
+  - proposal
+  - pilot
+  - testbed
+  - demonstration
+  - r&d
+  - startup
+  - sbir
+  - innovation
+  - project
+  - deadline
+  - open
+  - 申請
+  - 募集
+  - 補助
+  - 助成
+  - 公募
+  - 計畫
+
+keywords:
+  - RTSU
+  - STEPS
+  - smart city
+  - testbed
+  - demonstration
+  - net-zero
+  - decarbonization
+  - greenhouse gas
+  - urban heat
+  - climate adaptation
+  - pavement
+  - thermal management
+  - mobility
+  - startup grant

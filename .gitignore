@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+*.sqlite3
+reports/*
+!reports/.gitkeep
+!reports/*.md
+!reports/*.txt
+data/*
+!data/.gitkeep
+!data/*-classified.json
+!data/*-source-snapshots.json
