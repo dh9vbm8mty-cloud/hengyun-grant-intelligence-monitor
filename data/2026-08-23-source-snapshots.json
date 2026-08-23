@@ -1,0 +1,185 @@
+{
+  "sources": [
+    {
+      "name": "Taiwan SBIR official site",
+      "url": "https://www.sbir.org.tw/",
+      "status_code": "error",
+      "error": "HTTPSConnectionPool(host='sbir.org.tw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))",
+      "snippet": "",
+      "page_title": "",
+      "fetched_at": "2026-08-23T03:54:56.898489Z"
+    },
+    {
+      "name": "Taipei City Department of Economic Development",
+      "url": "https://www.taipei.gov.tw/",
+      "status_code": "error",
+      "error": "HTTPSConnectionPool(host='www.taipei.gov.tw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1016)')))",
+      "snippet": "",
+      "page_title": "",
+      "fetched_at": "2026-08-23T03:54:57.332825Z"
+    },
+    {
+      "name": "Taiwan Energy Administration",
+      "url": "https://www.moea.gov.tw/",
+      "status_code": 403,
+      "snippet": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access moea.gov.tw Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: a2f72dce7d468dfa • Your IP: Click to reveal 68.220.58.241 • Performance & security by Cloudflare",
+      "page_title": "Attention Required! | Cloudflare",
+      "fetched_at": "2026-08-23T03:54:57.688390Z"
+    },
+    {
+      "name": "Taiwan Ministry of Economic Affairs / SME and Startup Administration",
+      "url": "https://www.moea.gov.tw/",
+      "status_code": 403,
+      "snippet": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access moea.gov.tw Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: a2f72dcebc37ed36 • Your IP: Click to reveal 68.220.58.241 • Performance & security by Cloudflare",
+      "page_title": "Attention Required! | Cloudflare",
+      "fetched_at": "2026-08-23T03:54:57.724649Z"
+    },
+    {
+      "name": "NEDO official announcements",
+      "url": "https://www.nedo.go.jp/",
+      "status_code": 200,
+      "snippet": "NEDO 国立研究開発法人 新エネルギー・産業技術総合開発機構 本文へジャンプ English 検索 人気ワード 水素 RFI ムーンショット 標準契約書 人工光合成 閉じる ニュース イベント メディア 調達 採用情報 お問い合わせ 公募 事業紹介 成果･評価 契約案内 NEDOについて NEDO 国立研究開発法人 新エネルギー・産業技術総合開発機構 お知らせ： 熊本地震により影響を受けた事業者の皆様への対応について 公募 NEDOの公募情報と必要な手続きについて紹介しています。 事業紹介 NEDOの技術戦略やNEDOが実施する事業について技術分野別に紹介しています。 成果･評価 NEDOの事業の成果や評価に関する情報を紹介しています。 契約案内 契約に係る手続き案内、マニュアル、プロジェクトマネジメントシステム、相談窓口はこちらです。 ニュースリリース News Releases 2026年8月20日 世界初、燃料電池・水電解の材料を「動かしながら丸ごと診る」専用ビームラインをSPring-8-IIに建設します 2026年8月17日 浮体式洋上風力発電の低コスト化に向け、5件の新たなテーマを採択しました 2026年8月6日 グリーンイノベーション基金事業「次世代型太陽電池の開発／次世代型単接合太陽電池実証事業」で1件を新規採択しました ニュースリリース一覧 トピックス Topics 2026年8月19日 NEDO横島副理事長が「Oishii Farm オープンイノベーションセンター」の開所式に参加しました 2026年8月4日 「経済産業省こどもデー」に出展し「未来はキミたちのもの～新しいエネルギーを楽しく遊んで学ぼう！～」を開催しました 2026年7月29日 インド・ニューデリーで「日印合同経済フォーラム」を共催しました トピックス一覧 ピックアップ Featured Content NEDOグリーンイノベーション基金 カーボンニュートラルな未来へ。 カーボンニュートラル実現に向けNEDOに創設されたグリーンイノベーション基金事業について紹介しています。 Focus NEDO NEDOが運営するウェブマガジンです。 「研究開発の今と明日を伝える」をコンセプトに、「エネルギー・地球環境問題の解決」と「産業技術力の強化」に向けたNEDOの取り組みを分かりやすく紹介します。 StarTips (スタートアップ支援) NEDOを活用してスター企業を目指す！中小企業・スタートアップ企業に 役立つ情報“T!PS”がここに。 中小企業・スタートアップ企業向けの支援・成果情報をご紹介しています。 NEDO懸賞金活用型プログラム 朝日小学生新聞「おどろきサイエンス」 第8回カーボンリサイクル産学官国際会議2026 NEDO新卒採用情報 NEDOプロジェクトマネジメントシステム イノベーション戦略センター NEDO connect（産学連携エントランス） 経済安全保障重要技術育成プログラム ポスト5G情報通信システム基盤強化研究開発事業 ムーンショット型研究開発事業 ICEF2026第13回年次総会 新着情報 Latest update 実施者募集中の公募 イベント トピックス --> 調達 お知らせ 成果 2026年8月21日 情報インフラ 「戦略的イノベーション創造プログラム（SIP）第3期／バーチャルエコノミー拡大に向けた基盤技術・ルールの整備／バーチャルエコノミーにおける社会実装に向けた戦略検討、グローバルベンチマーク調査及び提供財の社会実装への取組提言」の公募について 2026年8月20日 バイオマス燃料開発 「木質バイオマス燃料等の安定的・効率的な供給・利用システム構築支援事業」の2026年度第2回公募について 2026年8月20日 スタートアップ支援 （情報更新）「ディープテック・スタートアップ支援基金／ディープテック・スタートアップ支援事業（DTSU）」の第10回公募及び「GX分野のディープテック・スタートアップに対する実用化研究開発・量産化実証支援事業（GX）」の第7回公募について 2026年8月19日 産学連携・人材育成 「NEDOプロジェクトを核とした人材育成、産学連携等の総合的展開／研究開発型スタートアップ支援人材の養成に係る特別講座（NEDO SSA、2026年度（11期））」の受講生募集について 2026年8月17日 スタートアップ支援 「2026年度JOIC Open-Innovation Acceleration Academy（JOIC-OIA）」の受講生募集について 2026年8月17日 基金・その他 「GXイノベーション・エコシステム構築事業推進に向けたフロンティア領域の探索・重点支援のためのマネジメント手法の構築」の公募について 2026年8月12日 AI （情報更新）「AIロボット・フィジカルAIを見据えたマルチモーダル基盤モデル開発事業」の公募について 2026年8月7日 風力発電 2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（未来型新エネ実証制度）の公募について 2026年8月7日 技術シーズ発掘・育成 2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（新エネ中小・スタートアップ支援制度）の公募について 2026年8月7日 基金・その他 役職員等の外国出張にかかる海外旅行保険加入に関する公募について 公募一覧 開催日 2026年9月14日 開催予定 「NEDO水素・アンモニア公開シンポジウム2026」の開催 開催日 2026年9月11日 開催予定 「グリーンイノベーション基金 CO2分離回収プロジェクト 成果報告会」の開催 開催日 2026年10月8日 開催予定 「第13回 Innovation for Cool Earth Forum（ICEF）年次総会」の開催 開催日 2026年9月17日 開催予定 スタートアップ向け海外展開支援プログラム「Immersion Program」国内ピッチイベントのご案内 開催日 2026年11月10日 開催予定 「数学イノベーション共創イベント」を開催します 開催日 2026年8月25日 開催予定 「（NEDO特別講座）AI品質マネジメント講座 第8期」の開催（受講者募集）のご案内 開催日 2026年10月28日 開催予定 「2026年度バイオものづくり人材育成講座」の募集について 開催日 2026年6月15日 開催終了 （情報更新）「NEDOサミット」開催のご案内 開催日 2026年7月29日 開催終了 「経済産業省こどもデー」への出展 開催日 2026年10月9日 開催予定 「第8回カーボンリサイクル産学官国際会議2026」の開催 イベント一覧 2026年8月19日 NEDO横島副理事長が「Oishii Farm オープンイノベーションセンター」の開所式に参加しました 2026年8月4日 「経済産業省こどもデー」に出展し「未来はキミたちのもの～新しいエネルギーを楽しく遊んで学ぼう！～」を開催しました 2026年7月29日 インド・ニューデリーで「日印合同経済フォーラム」を共催しました トピックス一覧 --> 2026年8月6日 360度フィードバック業務及び管理職向け研修業務 2026年7月30日 「SEMICON Japan 2026」への出展に係る会場設営・運営業務 2026年7月23日 簡易無線機の調達 2026年7月21日 統合人事システムの構築及び運用・保守業務 2026年6月29日 「第21回再生可能エネルギー世界展示会」及び「ENEX2027第51回地球環境とエネルギーの調和展」への出展に係る会場設営・運営業務 2026年6月24日 新卒採用広報活動に係る広報媒体の制作業務（2026年度） 2026年6月16日 「nano tech 第26回国際ナノテクノロジー総合展・技術会議」への出展に係る会場設営・運営業務 2026年6月8日 2026年分年末調整支援業務 2026年5月28日 「CEATEC 2026」への出展に係る会場設営・運営業務 2026年5月14日 「BioJapan 2026」への出展に係る会場設営・運営業務 調達情報一覧 2026年8月21日 バルーンマップ調査「日系企業の国際競争ポジションに関する情報収集」を公表 2026年8月21日 デジタル社会の将来像：―一人ひとりの多様なwell-beingを実現できるデジタル社会―を公表 2026年8月21日 NEDO海外技術情報 2026年8月21日号 新刊案内 2026年8月7日 熊本地震により影響を受けた事業者の皆様への対応について 2026年8月6日 神戸大学が計算科学と酵素工学で高機能ポリマー原料のバイオ生産を実現 2026年7月31日 「標準化に関するお役立ち情報」のページにおいて、国による標準化支援の情報を更新しました 2026年7月29日 2026年度「量子・古典ハイブリッド技術のサイバー・フィジカル開発事業」の第1回ステージゲート審査の結果について 2026年7月24日 大学発スタートアップにおける経営人材確保支援事業（MPM）事業のこれまでの成果を公開しました 2026年7月24日 ～米国に挑戦するスタートアップを成功に導く知的財産ガイド ケーススタディ編～を公表しました。 2026年7月23日 「NEDOと再生可能エネルギー開発の変遷」を掲載しました お知らせ一覧 2026年8月10日 産学連携・人材育成 「グリーンイノベーション基金 CO2分離回収プロジェクト 成果報告会」の開催 2026年7月31日 次世代火力発電 日本初、グリーン水素を使用した還元鉄試作に成功しました 2026年7月29日 半導体 ウェハの位置・方向が正確に測定できるアライメント計測システムの高精度化を実現しました 2026年7月23日 カーボンリサイクル​ 人工石灰石を用いた製造時固定量110kg CO 2 ／m 3 のCO 2 固定コンクリート製品の現場実証を完了しました 2026年7月16日 第61回新産業技術促進検討会シンポジウム 「NEDOデジタルライフライン整備事業成果報告会」の開催報告 成果一覧 （法人番号 2020005008480） サイトマップ サイト利用について プライバシーポリシー 情報公開 アクセス © New Energy and Industrial Technology Development Organization. All rights reserved.",
+      "page_title": "NEDO 国立研究開発法人 新エネルギー・産業技術総合開発機構",
+      "fetched_at": "2026-08-23T03:54:59.122039Z"
+    },
+    {
+      "name": "Singapore government grant and testbed pages",
+      "url": "https://www.gov.sg/",
+      "status_code": 200,
+      "snippet": "Home | gov.sg Skip to main content A Singapore Government Agency WebsiteÂ How to identify Official website links end with .gov.sg Government agencies communicate via .gov.sg websites (e.g. go.gov.sg/open).Â Trusted websites Secure websites use HTTPS Look for a lock ( ) or https:// as an added precaution. Share sensitive information only on official, secure websites. Government officials will never ask you to transfer money or disclose bank log-in details over a phone call. Call the 24/7 ScamShield Helpline at 1799 if you are unsure if something is a scam. Budget National Day Rally Explainers Features Stop Vaping Resources Budget 2026 Second Support Package for Singaporeans, Workers and Businesses in Response to the Middle East Situation Find out more Features Stay informed with updates and insights on key government policies and initiatives. Parliament Updates from the Parliament Sittings Screen Smart From The Start Learn how to build a healthy digital journey for your child Economic Strategy Review (ESR) Shaping Singapore's next chapter of growth and good jobs The Ripple Effect: How the Middle East Situation Can Impact Your Daily Kopi As a small, open economy, Singapore imports practically everything â from food products and raw materials to much of our energy needs. Find out more An Economy of the Future that Works for All The Economic Strategy Review aims to better the lives of all Singaporeans through creating better opportunities, better jobs, raising incomes, and increasing social mobility and resilience. Find out more gov.sg Budget National Day Rally Explainers Features Stop Vaping Factually About us Screen Smart From The Start Whole-of-Government Performance Portal Reach us Contact Feedback Â© 2026 Government of Singapore , last updated 23 August 2026 Report Vulnerability Privacy Statement Terms of Use REACH Made with Isomer Built by Open Government Products gov.sg Budget National Day Rally Explainers Features Stop Vaping Factually About us Screen Smart From The Start Whole-of-Government Performance Portal Reach us Contact Feedback Â© 2026 Government of Singapore , last updated 23 August 2026 Report Vulnerability Privacy Statement Terms of Use REACH Made with Isomer Built by Open Government Products",
+      "page_title": "Home | gov.sg",
+      "fetched_at": "2026-08-23T03:54:59.501781Z"
+    }
+  ],
+  "config": {
+    "monitor": {
+      "monitor_name": "HENGYUN Grant Intelligence Monitor",
+      "organization": "HENGYUN Technology",
+      "focus": [
+        "Taiwan startup grants",
+        "Taipei City startup and R&D grants",
+        "SBIR",
+        "SIIR",
+        "SITI",
+        "Energy Administration demonstration or R&D programs",
+        "net-zero technology grants",
+        "smart city testbed programs",
+        "Japan GX / NEDO / local decarbonization grants",
+        "Singapore urban climate / testbed programs"
+      ]
+    },
+    "sources": [
+      {
+        "name": "Taiwan SBIR official site",
+        "url": "https://www.sbir.org.tw/",
+        "source_category": "Official program source",
+        "grant_category": "Startup grant",
+        "priority": 1
+      },
+      {
+        "name": "Taipei City Department of Economic Development",
+        "url": "https://www.taipei.gov.tw/",
+        "source_category": "Public agency source",
+        "grant_category": "R&D grant",
+        "priority": 2
+      },
+      {
+        "name": "Taiwan Energy Administration",
+        "url": "https://www.moea.gov.tw/",
+        "source_category": "Official government source",
+        "grant_category": "Energy / net-zero grant",
+        "priority": 3
+      },
+      {
+        "name": "Taiwan Ministry of Economic Affairs / SME and Startup Administration",
+        "url": "https://www.moea.gov.tw/",
+        "source_category": "Official government source",
+        "grant_category": "Startup grant",
+        "priority": 4
+      },
+      {
+        "name": "NEDO official announcements",
+        "url": "https://www.nedo.go.jp/",
+        "source_category": "Official government source",
+        "grant_category": "International / Japan",
+        "priority": 5
+      },
+      {
+        "name": "Singapore government grant and testbed pages",
+        "url": "https://www.gov.sg/",
+        "source_category": "Public agency source",
+        "grant_category": "International / Singapore",
+        "priority": 6
+      }
+    ],
+    "opportunity_signals": [
+      "open call",
+      "call for proposals",
+      "application",
+      "apply",
+      "grant",
+      "subsidy",
+      "funding",
+      "demonstration",
+      "pilot",
+      "testbed",
+      "R&D program",
+      "innovation program",
+      "startup grant",
+      "SBIR",
+      "補助",
+      "申請",
+      "徵件",
+      "公告",
+      "計畫",
+      "受理",
+      "截止",
+      "申請須知",
+      "募集",
+      "公募",
+      "助成",
+      "補助金"
+    ],
+    "program_context_keywords": [
+      "grant",
+      "subsidy",
+      "funding",
+      "program",
+      "application",
+      "call",
+      "proposal",
+      "pilot",
+      "testbed",
+      "demonstration",
+      "r&d",
+      "startup",
+      "sbir",
+      "innovation",
+      "project",
+      "deadline",
+      "open",
+      "申請",
+      "募集",
+      "補助",
+      "助成",
+      "公募",
+      "計畫"
+    ],
+    "keywords": [
+      "RTSU",
+      "STEPS",
+      "smart city",
+      "testbed",
+      "demonstration",
+      "net-zero",
+      "decarbonization",
+      "greenhouse gas",
+      "urban heat",
+      "climate adaptation",
+      "pavement",
+      "thermal management",
+      "mobility",
+      "startup grant"
+    ]
+  }
+}
