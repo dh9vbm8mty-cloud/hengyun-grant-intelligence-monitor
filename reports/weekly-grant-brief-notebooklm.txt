@@ -36,8 +36,8 @@ The monitor collected a small set of official-source updates for review. No elig
 - Home | gov.sg (Singapore government grant and testbed pages) - monitored source page, not a confirmed opportunity
 
 11. Source health / fetch issues
-- Taiwan SBIR official site -> status error (HTTPSConnectionPool(host='sbir.org.tw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)'))))
-- Taipei City Department of Economic Development -> status error (HTTPSConnectionPool(host='www.taipei.gov.tw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1016)'))))
+- Taiwan SBIR official site -> status error (HTTPSConnectionPool(host='sbir.org.tw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)'))))
+- Taipei City Department of Economic Development -> status error (HTTPSConnectionPool(host='www.taipei.gov.tw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1018)'))))
 - Taiwan Energy Administration -> status 403 (needs review)
 - Taiwan Ministry of Economic Affairs / SME and Startup Administration -> status 403 (needs review)
 
